@@ -1,0 +1,14 @@
+# Ignore Node.js dependencies
+**/node_modules/
+
+# Ignore Python cache files
+**/__pycache__/
+
+# Ignore environment variable files
+**/.env
+
+# Ignore macOS system files (optional but common)
+.DS_Store
+
+# Ignore log files
+**/*.log
