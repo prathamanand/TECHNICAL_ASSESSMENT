@@ -103,5 +103,3 @@ To upgrade to a larger model, update the model endpoint in `nl2solidity.py` and 
 - **Generate a Contract**: Provide a natural language description to `nl2solidity.py` to create an ERC-compliant contract.
 - **Audit a Contract**: Use `explain_contract.py` with a contract address (via Etherscan) or a local `.sol` file to get a JSON summary and vulnerability report.
 
-## License
-[MIT License](LICENSE)
